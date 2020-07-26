@@ -11,6 +11,6 @@ Github Client
 5. ```python3 execute.py```
 
 
-#Progress so far
+# Progress so far
 
 - Currently csv contains these 3 indicators: name, float and shares outstanding
