@@ -9,3 +9,8 @@ Github Client
 3. Download content of this repo
 4. ```pip3 install -r requirements.txt```
 5. ```python3 execute.py```
+
+
+#Progress so far
+
+- Currently csv contains these 3 indicators: name, float and shares outstanding
